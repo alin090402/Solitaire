@@ -1,0 +1,32 @@
+D:\Computer science\Projects\solitaire\solitaire\bin\Debug\solitaire.exe.config
+D:\Computer science\Projects\solitaire\solitaire\bin\Debug\solitaire.exe
+D:\Computer science\Projects\solitaire\solitaire\bin\Debug\solitaire.pdb
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.csprojAssemblyReference.cache
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.Form1.resources
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.Properties.Resources.resources
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.csproj.GenerateResource.cache
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.csproj.CoreCompileInputs.cache
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.exe
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.pdb
+D:\Computer science\Projects\solitaire\solitaire\obj\Debug\solitaire.Form2.resources
+E:\Projects\solitaire\solitaire\bin\Debug\solitaire.exe.config
+E:\Projects\solitaire\solitaire\bin\Debug\solitaire.exe
+E:\Projects\solitaire\solitaire\bin\Debug\solitaire.pdb
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.csprojAssemblyReference.cache
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.Form1.resources
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.Form2.resources
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.Properties.Resources.resources
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.csproj.GenerateResource.cache
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.csproj.CoreCompileInputs.cache
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.exe
+E:\Projects\solitaire\solitaire\obj\Debug\solitaire.pdb
+E:\solitaire\solitaire\bin\Debug\solitaire.exe.config
+E:\solitaire\solitaire\obj\Debug\solitaire.exe
+E:\solitaire\solitaire\obj\Debug\solitaire.pdb
+E:\solitaire\solitaire\bin\Debug\solitaire.exe
+E:\solitaire\solitaire\bin\Debug\solitaire.pdb
+E:\solitaire\solitaire\obj\Debug\solitaire.csprojResolveAssemblyReference.cache
+E:\solitaire\solitaire\obj\Debug\solitaire.Form1.resources
+E:\solitaire\solitaire\obj\Debug\solitaire.Form2.resources
+E:\solitaire\solitaire\obj\Debug\solitaire.Properties.Resources.resources
+E:\solitaire\solitaire\obj\Debug\solitaire.csproj.GenerateResource.Cache
